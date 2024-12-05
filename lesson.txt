@@ -1,0 +1,31 @@
+callback function
+bir funksiyada boshqa bir funksiyani ishatish 
+
+nomsiz funksiay anonim function
+
+factory function new siz obyekt yaratish  
+
+constructor function obyekt yaratish va ularga 
+xuxusiyat berish va metodlar berish uchun 
+ishlatiladi   new bilan ishlatiladi
+
+currrying function kichkina functionlar da 
+tashkil topgan va har bir qismiga argument 
+beriladi va yangi funksiya yaratilasa va 
+argument berilsan currying function uni saqlab 
+qolasi va avalgi  natijani ham qoshadi   
+
+hihg order function bu bita ozgaruvchini 
+ozlashtirishi HOF
+
+
+IIFE bittada javob chiqaradi va bir marta ishaltiladi yoki run boladi 
+
+
+pure coft function va functionni qayta 
+ishlatish jarayonida moamosiz javob qaytaradi 
+
+
+impure function qayta ishlatilgan da uni 
+qiymati xar hil yoki qanaqadir qiymat qoshilib 
+yoki osha qiymatga oshib boradi
