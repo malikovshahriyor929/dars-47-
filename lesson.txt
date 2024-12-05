@@ -7,19 +7,20 @@ factory function new siz obyekt yaratish
 
 constructor function obyekt yaratish va ularga 
 xuxusiyat berish va metodlar berish uchun 
-ishlatiladi   new bilan ishlatiladi
+ishlatiladi va  new bilan ishlatiladi
 
-currrying function kichkina functionlar da 
+currrying function kichkina functionlarda 
 tashkil topgan va har bir qismiga argument 
-beriladi va yangi funksiya yaratilasa va 
-argument berilsan currying function uni saqlab 
-qolasi va avalgi  natijani ham qoshadi   
+beriladi va yangi funksiya yaratiladi va 
+argument berilsa currying function uni saqlab 
+qoladi va avalgi  natijani ham qoshadi   
 
-hihg order function bu bita ozgaruvchini 
+
+high order function bu bita ozgaruvchini 
 ozlashtirishi HOF
 
 
-IIFE bittada javob chiqaradi va bir marta ishaltiladi yoki run boladi 
+IIFE bittada javob chiqaradi va bir marta ishaltiladi yoki bir marta run boladi 
 
 
 pure coft function va functionni qayta 
